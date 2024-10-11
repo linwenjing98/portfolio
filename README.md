@@ -10,4 +10,4 @@ Through my portfolio, I aim to demonstrate my capability to analyze, interpret, 
 In this section, I will showcase some of the data analytics project that I have worked on. 
 
 ### Machine Learning Project on Heart Disease Prediction
-Code: [Heart Disease Prediction.ipynb](./Heart Disease Prediction.ipynb)
+Code: [Heart Disease Prediction.ipynb](./Heart_Disease_Prediction.ipynb)
