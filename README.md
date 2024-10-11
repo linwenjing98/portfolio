@@ -11,4 +11,15 @@ In this section, I will showcase some of the data analytics project that I have 
 
 ### Machine Learning Project on Heart Disease Prediction
 **Code:** [Heart Disease Prediction.ipynb](./Heart_Disease_Prediction.ipynb)
+
 **Description:** This project aims to predict the potential presence of heart related diseases in patients accurately based on other variables available such as the past medical histories, age, general physical and mental health, and more. Key risk indicators of heart related diseases identified from the predictions can be used to raise awareness among the public such that they are able to practise their own form of preventive measures.
+
+## Education
+The National University of Singapore <br/>
+Bachelor of Engineering, Industrial Systems Engineering & Management <br/>
+Minor in Business Analytics
+
+
+## Certificates 
+Here is a list of data analytics related certificates that I have obtained:
+- [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/99QC9CLYSZF5) (September 2024) (Coursera - Google)
