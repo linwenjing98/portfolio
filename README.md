@@ -16,6 +16,7 @@ In this section, I will showcase some of the data analytics project that I have 
 
 ## Education
 **The National University of Singapore** <br/>
+Auguest 2019 - June 2023 <br/>
 Bachelor of Engineering, Industrial Systems Engineering & Management <br/>
 Minor in Business Analytics
 
