@@ -1,2 +1,3 @@
 # Wen Jing's Data Analytics Portfolio 
-Data analytics portfolio
+## About
+Hi, I am Wen Jing and I graduated from the National University of Singapore with a degree in Industrial Systems Engineering & Management, with a minor in Business Analytics. 
