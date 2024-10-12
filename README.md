@@ -10,7 +10,7 @@ Through my portfolio, I aim to demonstrate my capability to analyze, interpret, 
 In this section, I will showcase some of the data analytics project that I have worked on. 
 
 ### Machine Learning Project on Heart Disease Prediction
-**Code:** [Heart Disease Prediction.ipynb](./Heart_Disease_Prediction.ipynb)
+**Code:** [Heart Disease Prediction.html](./Heart_Disease_Prediction.html)
 
 **Description:** This project aims to predict the potential presence of heart related diseases in patients accurately based on other variables available such as the past medical histories, age, general physical and mental health, and more. Key risk indicators of heart related diseases identified from the predictions can be used to raise awareness among the public such that they are able to practise their own form of preventive measures.
 
