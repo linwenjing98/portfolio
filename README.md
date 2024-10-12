@@ -1,4 +1,5 @@
 # Wen Jing's Data Analytics Portfolio 
+___
 ## About
 Hello! I’m Wen Jing, a passionate data enthusiast with a background in Industrial Systems Engineering and a minor in Business Analytics from the National University of Singapore. 
 
@@ -22,4 +23,5 @@ Auguest 2019 - June 2023 <br/>
 
 ## Certificates 
 Here is a list of data analytics related certificates that I have obtained:
-- [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/99QC9CLYSZF5) (September 2024) (Coursera - Google)
+- [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/99QC9CLYSZF5) (September 2024)
+- [DataCamp Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/d07a44acaf41f435175aa384c27a5e2d9db49bf1) (October 2022)
