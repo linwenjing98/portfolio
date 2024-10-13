@@ -1,3 +1,3 @@
 .sidebar {
-    display: none; /* This hides the sidebar completely */
+    display: none !important; /* This hides the sidebar completely */
 }
