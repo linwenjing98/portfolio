@@ -6,4 +6,4 @@ sass:
   style: compressed
 
 styles:
-  - /styles.css
+  - assets/styles.css
