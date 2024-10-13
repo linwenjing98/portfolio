@@ -1,5 +1,4 @@
 # add the following to _config.yml file
 title: Data Analytics Portfolio
 theme: jekyll-theme-minimal
-assets:
-  css: /portfolio/assets/css/styles.css
+baseurl: ""
