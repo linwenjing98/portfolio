@@ -3,4 +3,4 @@ title: Data Analytics Portfolio
 theme: jekyll-theme-minimal
 sass: 
   style: compressed
-  paths: [assets/css]
+  paths: [assets/css/styles.css]
