@@ -1,5 +1,5 @@
 # Wen Jing's Data Analytics Portfolio 
-___
+
 ## About
 Hello! I’m Wen Jing, a passionate data enthusiast with a background in Industrial Systems Engineering and a minor in Business Analytics from the National University of Singapore. 
 
@@ -7,19 +7,28 @@ While my current role as a Cloud Security Engineering Analyst involves managing 
 
 Through my portfolio, I aim to demonstrate my capability to analyze, interpret, and present data effectively, and I’m excited to continue this journey in a role where I can make data-driven contributions!
 
+
 ## Portfolio Projects
 In this section, I will showcase some of the data analytics project that I have worked on. 
 
 ### Machine Learning Project on Heart Disease Prediction
 **Code:** [Heart Disease Prediction.html](./Heart_Disease_Prediction.html)
 
-**Description:** This project aims to predict the potential presence of heart related diseases in patients accurately based on other variables available such as the past medical histories, age, general physical and mental health, and more. Key risk indicators of heart related diseases identified from the predictions can be used to raise awareness among the public such that they are able to practise their own form of preventive measures.
+**Description:** This project aims to predict the potential presence of heart related diseases in patients accurately based on other variables available such as the past medical histories, age, general physical and mental health, and more. 
+
+**Methodolgy:** Several classification models were implemented and evaluated, including Logistic Regression, Linear SVC, XGB Classifier, Random Forest Classifier and Voting Class Ensemble. To address class imbalance in the dataset, advanced resampling techniques such as SMOTE (Synthetic Minority Over-sampling Technique), SMOTEENN (a combination of SMOTE and Edited Nearest Neighbors), and Class Weighing were applied.
+
+**Skills:** Data cleaning, data preprocessing, data modelling, hyperparameter tuning, model evaulation
+
+**Results:** Achieving a 75.8% recall rate, the model effectively identified the majority of patients with heart-related diseases before any medical checkups or diagnoses. Analysis of feature weights revealed that general health, age, walking capability, smoking history, and past medical conditions are key indicators of heart disease.
+
 
 ## Education
 **The National University of Singapore** <br/>
 Auguest 2019 - June 2023 <br/>
 - Bachelor of Engineering, Industrial Systems Engineering & Management <br/>
 - Minor in Business Analytics
+
 
 ## Certificates 
 Here is a list of data analytics related certificates that I have obtained:
