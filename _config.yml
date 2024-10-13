@@ -1,3 +1,9 @@
 # add the following to _config.yml file
 title: Wen Jing;s Portfolio
 theme: jekyll-theme-minimal
+
+sass:
+  style: compressed
+
+styles:
+  - /styles.css
