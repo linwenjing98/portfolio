@@ -1,3 +1,5 @@
 # add the following to _config.yml file
 title: Wen Jing's Data Analytics Portfolio
 theme: jekyll-theme-minimal
+stylesheets:
+  - assets/css/styles.css
