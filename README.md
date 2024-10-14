@@ -29,11 +29,11 @@ In this section, I will showcase some of the data analytics project that I have 
 
 **Description:** This project aims to analyze electronic sales data to uncover key insights into customer spending behaviors, product performance, sales trend and etc. 
 
-**Methodolgy:** In this project, we employed various data visualization techniques, including box plots, scatter plots, bar plots, and line graphs, to analyze customer spending behaviors, product performance, and sales trends. Each visualization requires a solid understanding to accurately derive insights, which allows for actionable solutions to enhance sales strategies and improve overall business performance.
+**Methodolgy:** In this project, we employed various data visualization techniques, including box plots, scatter plots, bar plots, and line graphs, to analyze customer spending behaviors, product performance, and sales trends. Each visualization requires a solid understanding to accurately derive insights.
 
 **Skills:** Data cleaning, data preprocessing, data visualisation, data analysis
 
-**Results:** Our comprehensive analysis of the sales data has revealed key areas to focus our sales strategy to effectively boost overall electronics sales. One significant opportunity lies in enhancing credit card promotions for headphones during the year-end holiday season. This period has historically correlated with lower sales for this category, which we have identified as less popular among consumers. By leveraging credit cards, the most common payment method, we can design enticing promotional offers that encourage customers to consider these products.
+**Results:** Our comprehensive analysis of the sales data has revealed key areas to focus our sales strategy to effectively boost overall electronics sales. One significant opportunity lies in enhancing credit card promotions for headphones during the year-end holiday season. Based on our analysis, this period has historically correlated with lower sales for this category, which we have identified as less popular among consumers. By leveraging credit cards, the most common payment method, we can design enticing promotional offers that encourage customers to consider these products.
 <br>
 <br>
 ## Education
