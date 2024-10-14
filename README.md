@@ -43,7 +43,7 @@ Auguest 2019 - June 2023 <br/>
 - Bachelor of Engineering, Industrial Systems Engineering & Management <br/>
 - Minor in Business Analytics
 <br>
-<br>
+
 ## Certificates 
 ___
 Here is a list of data analytics related certificates that I have obtained:
