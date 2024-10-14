@@ -1,4 +1,3 @@
-# Wen Jing's Data Analytics Portfolio 
 ## About
 Hello! I’m Wen Jing, a passionate data enthusiast with a background in Industrial Systems Engineering and a minor in Business Analytics from the National University of Singapore. 
 
