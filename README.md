@@ -43,6 +43,7 @@ Auguest 2019 - June 2023 <br/>
 - Bachelor of Engineering, Industrial Systems Engineering & Management <br/>
 - Minor in Business Analytics
 <br>
+<br>
 
 ## Certificates 
 ___
