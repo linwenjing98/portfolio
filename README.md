@@ -21,7 +21,7 @@ In this section, I will showcase some of the data analytics project that I have 
 
 **Skills:** Data cleaning, data preprocessing, data modelling, hyperparameter tuning, model evaulation
 
-**Results:** Achieving a 75.8% recall rate, the model effectively identified the majority of patients with heart-related diseases before any medical checkups or diagnoses. Analysis of feature weights revealed that general health, age, walking capability, smoking history, and past medical conditions are key indicators of heart disease.
+**Results:** Achieving a 76.9% recall rate, the model effectively identified the majority of patients with heart-related diseases before any medical checkups or diagnoses. Analysis of feature weights revealed that general health, age, walking capability, smoking history, and past medical conditions are key indicators of heart disease.
 
 
 ## Education
