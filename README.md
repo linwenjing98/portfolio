@@ -8,7 +8,6 @@ Through my portfolio, I aim to demonstrate my capability to analyze, interpret, 
 <br>
 <br>
 ## Portfolio Projects
-___
 In this section, I will showcase some of the data analytics project that I have worked on. 
 
 ### <ins>Machine Learning Project on Heart Disease Prediction<ins/>
@@ -36,7 +35,6 @@ In this section, I will showcase some of the data analytics project that I have 
 <br>
 <br>
 ## Education
-___
 **The National University of Singapore** <br/>
 Auguest 2019 - June 2023 <br/>
 - Bachelor of Engineering, Industrial Systems Engineering & Management <br/>
@@ -45,7 +43,6 @@ Auguest 2019 - June 2023 <br/>
 <br>
 
 ## Certificates 
-___
 Here is a list of data analytics related certificates that I have obtained:
 - [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/99QC9CLYSZF5) (September 2024)
 - [DataCamp Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/d07a44acaf41f435175aa384c27a5e2d9db49bf1) (October 2022)
