@@ -22,7 +22,18 @@ In this section, I will showcase some of the data analytics project that I have 
 **Skills:** Data cleaning, data preprocessing, data modelling, hyperparameter tuning, model evaulation
 
 **Results:** Achieving a 76.9% recall rate, the model effectively identified the majority of patients with heart-related diseases before any medical checkups or diagnoses. Analysis of feature weights revealed that general health, age, walking capability, smoking history, and past medical conditions are key indicators of heart disease.
+<br>
+<br>
+### Electronic Sales Data Analysis
+**Code:** [Electronic Sales Analysis.html](./Eletronic_Sales_Analysis.html)
 
+**Description:** This project aims to analyze electronic sales data to uncover key insights into customer spending behaviors, product performance, sales trend and etc. 
+
+**Methodolgy:** In this project, we employed various data visualization techniques, including box plots, scatter plots, bar plots, and line graphs, to analyze customer spending behaviors, product performance, and sales trends. Each visualization requires a solid understanding to accurately derive insights, which allows for actionable solutions to enhance sales strategies and improve overall business performance.
+
+**Skills:** Data cleaning, data preprocessing, data visualisation, data analysis
+
+**Results:** Our comprehensive analysis of the sales data has revealed key areas to focus our sales strategy to effectively boost overall electronics sales. One significant opportunity lies in enhancing credit card promotions for headphones during the year-end holiday season. This period has historically correlated with lower sales for this category, which we have identified as less popular among consumers. By leveraging credit cards, the most common payment method, we can design enticing promotional offers that encourage customers to consider these products.
 
 ## Education
 ___
