@@ -45,3 +45,4 @@ Auguest 2019 - June 2023 <br/>
 Here is a list of data analytics related certificates that I have obtained:
 - [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/99QC9CLYSZF5) (September 2024)
 - [DataCamp Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/d07a44acaf41f435175aa384c27a5e2d9db49bf1) (October 2022)
+- Oracle Database SQL Certified Associate (In-progress, Exp. Dec 2024)
